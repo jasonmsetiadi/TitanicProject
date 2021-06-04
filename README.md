@@ -22,7 +22,7 @@ the best accuracy using cross validation.
 After getting the best performing models, we can tune them to get the best
 hyperparameters for those models. This is done to improve the accuracy even further.
 
-4. Test Set
+4. Test Set Prediction
 
 Lastly, we can perform preprocessing on the test set as well as predict
 the survival of each passenger using the tuned model.
